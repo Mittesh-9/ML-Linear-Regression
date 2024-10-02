@@ -8,7 +8,7 @@ The main objective of this project is to build a linear regression model to pred
 - Loading and understanding the dataset.
 - Performing basic exploratory data analysis (EDA).
 - Fitting a linear regression model.
-- Visualizing the model's predictions against the actual data.
+- Model's predictions against the actual data.
 - Evaluating the model's performance using metrics like R-squared and Mean Squared Error.
 
 ## Prerequisites
@@ -35,6 +35,9 @@ Or if you have already cloned the repository just run
 Here are visualizations and results you can expect from this project:
 
 - **Scatter plot with the regression line**: Displays the data points along with the best-fit line showing the relationship between the independent variable (X) and the dependent variable (y).
+
+![Output](visuals/output_lrl.png)
+
 - **Performance metrics**:
 ```
                                      OLS Regression Results                                
